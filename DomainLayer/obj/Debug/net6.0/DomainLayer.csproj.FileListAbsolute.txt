@@ -1,0 +1,12 @@
+D:\Course\.net\New folder\test\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\Course\.net\New folder\test\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Course\.net\New folder\test\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\Course\.net\New folder\test\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll

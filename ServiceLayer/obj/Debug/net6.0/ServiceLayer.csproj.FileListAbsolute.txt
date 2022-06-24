@@ -1,0 +1,17 @@
+D:\Course\.net\New folder\test\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\Course\.net\New folder\test\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\Course\.net\New folder\test\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+D:\Course\.net\New folder\test\ServiceLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Course\.net\New folder\test\ServiceLayer\bin\Debug\net6.0\ReprositryLayer.dll
+D:\Course\.net\New folder\test\ServiceLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Course\.net\New folder\test\ServiceLayer\bin\Debug\net6.0\ReprositryLayer.pdb
+D:\Course\.net\New folder\test\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
